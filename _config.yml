@@ -1,6 +1,6 @@
 title:            A5anka's Blog
 description:      Web log of my journey
-disqus_shortname: 
+disqus_shortname: a5anka
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
@@ -23,7 +23,7 @@ owner:
   #flickr:         
   #tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:
+  google_plus:   +AsankaAbeyweera
 
 # Background image to be tiled on all pages
 background: 
