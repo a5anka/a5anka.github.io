@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Creating an Eclipse project using Maven"
+description: "Maven is a build automation tool used in Java projects. Eclipse is a popular IDE used in developing Java projects. Therefore it makes Java development very productive if we can combine these two tools."
 modified: 2014-05-14 10:21:22 +0530
 tags: [java,maven,eclipse]
 image:
