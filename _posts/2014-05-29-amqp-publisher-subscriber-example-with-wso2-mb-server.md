@@ -118,7 +118,7 @@ public class Subscriber {
         System.out.println(channel);
 
 
-        channel.queueDeclare(QUEUE_NAME, false, false, false, null);
+        channel.queueDeclare(QUEUE_NAME, true, false, false, null);
         System.out.println(" [*] Waiting for messages.");
 
         QueueingConsumer consumer = new QueueingConsumer(channel);
