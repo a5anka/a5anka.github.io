@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "AMQP Publisher-Subscriber example with WSO2 MB server"
-description: "this will help you get started on APMQ with WSO2 MB."
+modified: 2015-05-29 12:00:00 +0530
+description: "This post will help you get started on AMPQ with WSO2 MB."
 tags: [java, amqp, wso2, mb]
 image:
   feature: abstract-1.jpg
@@ -12,7 +13,7 @@ share: true
 ---
 
 Have you used the WSO2 MB sever with AMPQ? If not this will help you
-get started on APMQ with WSO2 MB. I am using the newly released WSO2
+get started on AMPQ with WSO2 MB. I am using the newly released WSO2
 MB 2.2.0 and RabbitMQ AMQP Java client in this example.
 
 ## Setting up the project
