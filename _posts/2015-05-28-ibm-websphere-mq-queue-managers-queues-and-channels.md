@@ -12,8 +12,8 @@ share: true
 ---
 
 <figure>
-	<a href="images/IBM_MQ_Ecplorer.png">
-        <img src="images/IBM_MQ_Ecplorer.png" alt="IBM WebSphere MQ Explorer">
+	<a href="{{ site.url }}/images/IBM_MQ_Ecplorer.png">
+        <img src="{{ site.url }}/images/IBM_MQ_Ecplorer.png" alt="IBM WebSphere MQ Explorer">
     </a>
 </figure>
 
