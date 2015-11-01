@@ -4,10 +4,6 @@ title: "Running Clustered Integration Tests in WSO2 MB"
 description: "Clustered integration tests are introduced in WSO2 MB 3.0.0. Before
 version 3.0.0. This post tell you how to configure and run the clustered integration tests available in the WSO2 MB."
 tags: [WSO2, WSO2 MB, Testing]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: true
 share: true
 ---

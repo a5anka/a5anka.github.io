@@ -4,10 +4,7 @@ title: "Purging Git Branches"
 description: "Creating a git alias to delete branch from both local and remote repos"
 tags: [GIT]
 image:
-  feature: abstract-10.jpg
   thumb: gitflow_5_Vincent_Driessen.png
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: true
 share: true
 ---

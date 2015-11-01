@@ -4,10 +4,6 @@ title: "AMQP Publisher-Subscriber example with WSO2 MB server"
 modified: 2015-10-13 21:25:00 +0530
 description: "This post will help you get started on AMPQ with WSO2 MB."
 tags: [java, amqp, wso2, mb]
-image:
-  feature: abstract-1.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: true
 share: true
 ---

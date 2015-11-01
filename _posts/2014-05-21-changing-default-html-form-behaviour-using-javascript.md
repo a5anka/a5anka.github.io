@@ -3,10 +3,6 @@ layout: post
 title: "Changing  default HTML form behaviour using JavaScript"
 description: "Have you ever faced a situation where you wanted to execute a function you want instead of sending the form data when the submit button is clicked. This post describes one way you can do just that."
 tags: [javascript]
-image:
-  feature: abstract-1.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: true
 share: true
 ---

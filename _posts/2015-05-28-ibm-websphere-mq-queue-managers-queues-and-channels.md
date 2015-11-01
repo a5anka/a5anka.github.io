@@ -3,10 +3,6 @@ layout: post
 title: "IBM WebSphere MQ Queue Managers, Queues and Channels"
 description: "This post include a summary on IBM WebSphere MQ  Queue Managers, Queues and Channels"
 tags: [MQ, IBM, Queue]
-image:
-  feature: abstract-7.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: true
 share: true
 ---

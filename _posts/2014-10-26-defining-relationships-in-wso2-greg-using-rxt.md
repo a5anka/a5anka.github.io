@@ -3,10 +3,6 @@ layout: post
 title: "Defining Relationships in WSO2 GREG using RXT"
 description: "This post explain the relationship model used in the WSO2 GREG's RXT files"
 tags: [WSO2, GREG, RXT]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: true
 share: true
 ---
