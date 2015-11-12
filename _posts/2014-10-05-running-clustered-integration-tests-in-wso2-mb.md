@@ -131,5 +131,12 @@ product-mb/modules/integration/ directory.
     </a>
 </figure>
 
+## GIT trick to configure quickly
+
+It is a pain to do all these configuration every time we need to run
+cluster tests. What I do to avoid that is keeping all these configuration
+changes in GIT stash. Then when ever I need to run the cluster tests,
+I can simply apply the stash and run tests.
+
 [1]: https://zookeeper.apache.org/
 [2]: https://github.com/wso2/product-mb/blob/master/modules/integration/tests-platform/tests-clustering/src/test/resources/automation.xml
