@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Yesterday's Tech`,
+    title: `I Was Wrong Yesterday`,
     author: `Asanka Abeyweera`,
     description: `Web log of my learnings`,
     siteUrl: `https://a5anka.netlify.io/`,
