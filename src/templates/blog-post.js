@@ -45,6 +45,16 @@ class BlogPostTemplate extends React.Component {
             }}
           />
           <footer>
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <ins class="adsbygoogle"
+                style={{display: 'block'}}
+                data-ad-client="ca-pub-8692104840351793"
+                data-ad-slot="1517447606"
+                data-ad-format="auto"
+                data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
             <Bio />
           </footer>
         </article>
