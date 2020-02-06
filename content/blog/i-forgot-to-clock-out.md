@@ -15,7 +15,7 @@ _If you are wandering what all this is about, I am using the [org
 mode](https://orgmode.org/manual/Clocking-Work-Time.html#Clocking-Work-Time)
 to keep track of how I spend my time on certain things._
 
-I wanted to do this more efficiently and it turns our
+I wanted to do this more efficiently and it turns out that
 `org-resolve-clock` (or `C-c C-x C-z`) is the better way to do it.
 Here is how I do it now.
 
