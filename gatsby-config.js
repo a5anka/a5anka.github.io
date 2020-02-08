@@ -3,7 +3,7 @@ module.exports = {
     title: `I Was Wrong Yesterday`,
     author: `Asanka Abeyweera`,
     description: `Web log of my learnings`,
-    siteUrl: `https://a5anka.netlify.io/`,
+    siteUrl: `https://a5anka.netlify.com/`,
     social: {
       twitter: `a5anka`,
     },
@@ -80,6 +80,7 @@ module.exports = {
       },
     },
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-sitemap`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
