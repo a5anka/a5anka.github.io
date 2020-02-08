@@ -1,4 +1,5 @@
 import React from "react"
+import { Helmet } from "react-helmet"
 import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
@@ -14,6 +15,9 @@ class BlogIndex extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
+        <Helmet>
+          <meta name="google-site-verification" content="HcMNkTi6zhD6GVGVC8W-iBhTRP4pBavgAeMb7pdcPfQ" />
+        </Helmet>
         <SEO title="All posts" />
         <Bio />
         {posts.map(({ node }) => {

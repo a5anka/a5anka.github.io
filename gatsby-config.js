@@ -79,6 +79,7 @@ module.exports = {
         publisherId: `ca-pub-8692104840351793`
       },
     },
+    `gatsby-plugin-react-helmet`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
