@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Azure Pipeline Config Behavior"
 description: "How I understood the behavior of an Azure Pipeline Config in a multi branch repo"
-date: "2020-05-03"
+date: "2020-05-08"
 ---
 
 Every serious software project uses an automation server or a service
