@@ -16,7 +16,7 @@ class BlogIndex extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <Helmet>
-          <meta name="google-site-verification" content="HcMNkTi6zhD6GVGVC8W-iBhTRP4pBavgAeMb7pdcPfQ" />
+          <meta name="google-site-verification" content="Jn6HdGeW8Lu496tPY1QDC03txkmm7fntnhcZdOtq_AY" />
         </Helmet>
         <SEO title="All posts" />
         <Bio />
