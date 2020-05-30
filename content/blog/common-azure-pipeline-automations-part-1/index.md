@@ -1,7 +1,7 @@
 ---
-title: "Common Azure pipeline trigger usecases"
+title: "Common Azure pipeline trigger usecase - part 1"
 description: "Examines how the trigger paramter can be used to implement some of the common automations"
-date: "2020-05-10"
+date: "2020-05-30"
 ---
 
 Azure pipelines are also kind of programs. There are inputs, outputs and a processing logic. In most
@@ -51,8 +51,9 @@ pr:
     - docs/README.md
 ```
 
-I think the config options are self explanatory and needs no detail explanations. Now let's look at
-some common usecase and see how pipeline triggers are configured to implement them
+I think the config options are self explanatory and needs no detail explanations. Let's look at some
+common usecase and see how pipeline triggers are configured to implement them in these series of
+posts. We will start with the most basic one.
 
 ### Running Tests and build for all changes pushed
 
@@ -87,10 +88,8 @@ The build pipeline can be configured to build all branches except certain branch
 `triggger/branches/exclude` config. I would recommend against it since it is always better to get
 the build status specially when it is the broken state.
  
-### Pushing build artifacts to a artifact repository
+...
 
-### Updating the deployment with changes
-
-### Running checks against a created PR
-
-### Hosting multiple projects (for example backend and frontend) in the same source repository
+This is a very trivial trigger use case that can be achieved with Azure pipelines. We will look at
+more trigger use cases (pushing building and pushing artifacts, running checks against a created PR,
+updating a deployment with changes, etc) in the next few posts.

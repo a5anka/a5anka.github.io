@@ -56,6 +56,6 @@ as the `trigger`.
 ![Analysis of results](result-summary-circled.png "Analysis of
 results" )
 
-In the next post, let's have a look at a few use cases and see how
-to apply this knowledge.
+In the [next post](../common-azure-pipeline-automations-part-1), let's have a look at a few use cases
+and see how to apply this knowledge.
 
