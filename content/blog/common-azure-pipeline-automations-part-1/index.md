@@ -1,5 +1,5 @@
 ---
-title: "Common Azure pipeline trigger usecase - part 1"
+title: "Common Azure pipeline trigger use cases - part 1"
 description: "Examines how the trigger paramter can be used to implement some of the common automations"
 date: "2020-05-30"
 ---
